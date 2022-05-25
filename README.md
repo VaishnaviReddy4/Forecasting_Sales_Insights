@@ -6,16 +6,20 @@ The data was gathered from a variety of Walmart databases as well as a hardware 
 
 
 >* ### **Methodology**
+As a part of AIMS grid project management tool, milestones to accomplish, Target audience/Stakeholders, Success Criteria, Purpose and End results are identified and are noted in a 4-grid plane. These are the main dimensions that shows interdependencies and shows relevant goal parameters which saves a lot of time.
+In the next stage, a forecasting model is implemented to draw insights of sales from the analysis on the database used, performed Exploratory Data Analysis, drawn results with various evaluation metrices like accuracy, precision, confusion matrix and the variance between the data is found using correlation analysis. The results obtained were adequate and the redundant values are not considered. 
+In the final stage, data analysis is done using SQL (on the previously collected data) which is termed as OLTP and is then used to perform ETL phase for the data warehouse (OLAP). The data is then visualized using TABLEAU dashboards to draw the prophetic conclusions and can visualize data rather storing in the text formats.
+
 ![image](https://user-images.githubusercontent.com/94667797/170266786-735c4d84-829e-49c4-932a-d3301ff87632.png)
  
  
- >* ### **Segment-1:** 
+### **Segment-1:** 
  ![image](https://user-images.githubusercontent.com/94667797/170267119-11c7513f-8fcc-485c-8ff8-6049c76dd6a1.png)
 
  
-  >* ### **Segment-2:** 
+### **Segment-2:** 
  ![image](https://user-images.githubusercontent.com/94667797/170267081-c85ceffb-a02f-4d04-82f6-b76b68da7838.png)
 
  
- >* ### **Segment-3:** 
- >![image](https://user-images.githubusercontent.com/94667797/170267275-fd7afec0-4462-4b0d-bc65-894f8fe5e9af.png)
+### **Segment-3:** 
+ ![image](https://user-images.githubusercontent.com/94667797/170267275-fd7afec0-4462-4b0d-bc65-894f8fe5e9af.png)
